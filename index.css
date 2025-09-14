@@ -72,6 +72,8 @@ h1 {
   opacity: 0;
   animation: fadeInRight 5s ease forwards;
   animation-delay: 1s;
+  display: block;
+  visibility: visible;
 }
 
 @keyframes fadeInRight {
